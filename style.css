@@ -210,7 +210,11 @@ hr.light-100{
   .social a {
     font-size: 2em;
     padding:.7rem; 
-  }    
+  }
+  .subtitles {
+    display: none;
+  }
+     
 }
 
 
