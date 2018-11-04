@@ -40,14 +40,12 @@ ul {
   text-shadow: 1px 1px 10px black;
   padding-bottom: 1rem;
 }
-
 .carousel-caption h4 {
   font-size: 180%;
   font-weight: 400;
   text-shadow: 1px 1px 6px black;
   padding-bottom: 1rem;
 }
-
 .btn-primary {
   background-color: #6648b1;
   border: 1px solid #6648b1;
@@ -86,7 +84,6 @@ ul {
 .fa-node-js {
   color: red;
 } 
-
 .fa-vr-cardboard {
   color: black;
 }
@@ -94,6 +91,10 @@ ul {
   font-size: 3em;
   margin: 1rem;
 } 
+
+.card {
+  background-color: #00ffff;
+}
 .social a {
   font-size: 4.5em;
   padding: 3rem;
@@ -137,6 +138,19 @@ hr.light-100{
   margin-top: .8rem;
   margin-bottom: 1rem; 
 }
+
+.bg-black {
+  background-color: #161616 !important;
+}
+
+.projects-section {
+  padding: 10rem 0;
+}
+
+.projects-section .featured-text {
+  padding: 2rem;
+}
+
 
 
 /*---Media Queries --*/
