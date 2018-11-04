@@ -91,19 +91,20 @@ ul {
   font-size: 3em;
   margin: 1rem;
 } 
-
 .card {
-  background-color: #00ffff;
+  background-color: #e5ffe9ff;
+}
+.card-body {
+ background-color: #d7dbe9ff;
+ color: #290e64ff;  
 }
 .resume-btn {
   margin-top: 10px;
 }
-
 .social a {
   font-size: 4.5em;
   padding: 3rem;
 }
-
 .fa-linkedin {
    color: #0077b5;
 }
@@ -142,19 +143,6 @@ hr.light-100{
   margin-top: .8rem;
   margin-bottom: 1rem; 
 }
-
-.bg-black {
-  background-color: #161616 !important;
-}
-
-.projects-section {
-  padding: 10rem 0;
-}
-
-.projects-section .featured-text {
-  padding: 2rem;
-}
-
 
 
 /*---Media Queries --*/
