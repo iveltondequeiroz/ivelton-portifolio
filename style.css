@@ -123,6 +123,11 @@ ul {
 .fa-linkedin:hover, .fa-github:hover,.fa-twitter:hover,.fa-facebook:hover,.fa-youtube:hover {
   color: lightgray
 }
+
+.fa-mobile-alt, .fa-at, .fa-map-marker-alt {
+  font-size: 2.5em;
+}
+
 footer {
   background-color: #3f3f3f;
   color: #d5d5d5;
