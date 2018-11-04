@@ -6,6 +6,6 @@ Projects portifolio web page
 - Data Visualizations
 - Augmented Reality
 
-[Ivelton's Portifolio](https://iveltondequeiroz.github.io/portifolio/)
+[Portifolio Web Page](https://iveltondequeiroz.github.io/portifolio/)
 
 ![portifolio](portifolio.PNG)
