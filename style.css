@@ -83,10 +83,14 @@ ul {
 .fa-code {
   color: #e54d26;
 } 
-.fa-node {
+.fa-node-js {
   color: red;
 } 
-.fa-ethereum, .fa-code, .fa-node {
+
+.fa-vr-cardboard {
+  color: black;
+}
+.fa-ethereum, .fa-code, .fa-node-js, .fa-vr-cardboard {
   font-size: 3em;
   margin: 1rem;
 } 
