@@ -8,4 +8,4 @@ Projects portifolio web page
 
 [Ivelton's Portifolio](https://iveltondequeiroz.github.io/portifolio/)
 
-![portifolio](Portifolio.PNG)
+![portifolio](portifolio.PNG)
